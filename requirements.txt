@@ -1,0 +1,7 @@
+numpy>=1.26,<3
+opencv-python>=4.8,<5
+Pillow>=10,<13
+torch>=2.2
+transformers>=5.3,<6
+arabic-reshaper>=3.0
+python-bidi>=0.6
